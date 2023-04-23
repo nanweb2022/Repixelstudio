@@ -1488,6 +1488,16 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+.btn-whapp img{
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  bottom: 30px;
+  position: fixed;
+  left: 30px;
+}  
+
 #footer {
   color: #fff;
   font-size: 14px;
